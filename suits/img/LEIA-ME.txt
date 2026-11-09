@@ -1,0 +1,16 @@
+Coloque aqui as fotos do elenco, com estes nomes exatos (formato .jpg):
+
+gabriel-macht.jpg
+patrick-j-adams.jpg
+rick-hoffman.jpg
+meghan-markle.jpg
+sarah-rafferty.jpg
+gina-torres.jpg
+amanda-schull.jpg
+dule-hill.jpg
+katherine-heigl.jpg
+wendell-pierce.jpg
+
+Se uma foto não estiver aqui, o site mostra as iniciais do ator no lugar.
+Use só fotos que você tem permissão para usar (por exemplo, fotos com licença livre da Wikimedia Commons)
+e preencha o crédito no arquivo js/elenco.js, na última posição de cada linha.
